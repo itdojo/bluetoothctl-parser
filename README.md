@@ -45,7 +45,7 @@ chmod +x bluetoothctl-prettytable.py
 ***
 
 # Troubleshooting
-* `bluetoothctl.py` cript returns only **[]** or `bluetoothctl-prettytable.py` returns a header row with no devices:
+* `bluetoothctl.py` returns only **[]** or `bluetoothctl-prettytable.py` returns a header row with no devices:
   * Check that `bluetoothctl scan on` is actually running.
 
 ***
