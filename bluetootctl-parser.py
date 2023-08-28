@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# This script parses the output of bluetoothctl to get a list of paired devices
+# This script parses the output of bluetoothctl to get a list of discovered devices
 # and their info. It then prints the info in JSON format.
 # Usage: python3 bluetoothctl-parser.py
 # Note: 'bluetoothctl scan on' must be running first to get a list of devices
