@@ -51,7 +51,7 @@ chmod +x bluetoothctl-prettytable.py
 ***
 
 # To Do:
-* There are a few fields that soemtimes still have a leading or trailing blank space; I need to remove those.
+* There are a few fields that sometimes still have a leading or trailing blank space; I need to remove those.
 * Add writing results to a database to include first_seen, last_seen, GPS, etc..
 * Integrate GPS recording.
 * `bluetoothctl-prettytable.py` sometimes add a wonkily-formatted row when devices are in the process of being added. It goes away as soon as the device is fully seen.  I need to chase it down in the tables to figure out how to clean that up.
