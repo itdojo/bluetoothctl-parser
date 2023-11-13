@@ -1,7 +1,6 @@
-[toc]
-
 # bluetoothctl-parser
-Two scripts:
+
+Two scripts are provided:
 1. `bluetoothctl-parser.py` - Gathers device info from **bluetoothctl**, cleans it up and outputs it STDOUT in JSON format.
 2. `bluetoothctl-prettytable.py` - Gathers device info from **bluetoothctl**, cleans it and and outputs it to a table. This script gets device data every 5 seconds and refreshes the table.  It runs in a forever loop.
 
@@ -44,7 +43,9 @@ chmod +x bluetoothctl-prettytable.py
 ***
 
 # `bluetoothctl-prettytable.py` Sample Output
+<picture>
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-prettytable.jpg>
+</picture>
 
 ***
 
