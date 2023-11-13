@@ -1,3 +1,5 @@
+[toc]
+
 # bluetoothctl-parser
 Two scripts:
 1. `bluetoothctl-parser.py` - Gathers device info from **bluetoothctl**, cleans it up and outputs it STDOUT in JSON format.
