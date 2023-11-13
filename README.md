@@ -36,8 +36,10 @@ chmod +x bluetoothctl-prettytable.py
 ```
 
 # `bluetoothctl-parser.py` Sample Output
+<picture>
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output2.jpg>
-<img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output1.jpg>
+</picture>
+ <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output1.jpg>
 
 ***
 
