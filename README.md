@@ -20,18 +20,6 @@ chmod +x bluetoothctl-parser.py
 
 ***
 
-
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
-
-***
-
 # `bluetoothctl-prettytable.py` Usage
 1. Start bluetooth scanning using bluetoothctl.  Leave the scan running while using the script.
 ```bash
@@ -47,17 +35,17 @@ chmod +x bluetoothctl-prettytable.py
 ```
 
 # `bluetoothctl-parser.py` Sample Output
-<picture>
+
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output2.jpg>
-</picture>
- <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output1.jpg>
+
+<img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output1.jpg>
 
 ***
 
 # `bluetoothctl-prettytable.py` Sample Output
-<picture>
+
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-prettytable.jpg>
-</picture>
+
 
 ***
 
