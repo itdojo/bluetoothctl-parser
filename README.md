@@ -4,7 +4,7 @@ Two python scripts:
 1. `bluetoothctl-parser.py` - Gathers device info using **bluetoothctl**, cleans it up and outputs it STDOUT in JSON format.
 2. `bluetoothctl-prettytable.py` - Gathers device info from **bluetoothctl**, cleans it and and outputs it to a table. This script gets device data every 5 seconds and refreshes the table.  It runs in a forever loop.
 
-# `bluetoothctl-parser.py` Usage
+# bluetoothctl-parser.py Usage
 1. Start bluetooth scanning using bluetoothctl.  Leave the scan running while using the script.
 ```bash
 bluetoothctl scan on
@@ -20,7 +20,7 @@ chmod +x bluetoothctl-parser.py
 
 ***
 
-# `bluetoothctl-prettytable.py` Usage
+# bluetoothctl-prettytable.py Usage
 1. Start bluetooth scanning using bluetoothctl.  Leave the scan running while using the script.
 ```bash
 bluetoothctl scan on
@@ -34,7 +34,7 @@ chmod +x bluetoothctl-prettytable.py
 ./bluetoothctl-prettytable.py
 ```
 
-# `bluetoothctl-parser.py` Sample Output
+# bluetoothctl-parser.py Sample Output
 
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-parser-script-output2.jpg>
 
@@ -42,7 +42,7 @@ chmod +x bluetoothctl-prettytable.py
 
 ***
 
-# `bluetoothctl-prettytable.py` Sample Output
+# bluetoothctl-prettytable.py Sample Output
 
 <img src=https://dojolabs.s3.amazonaws.com/bluetooth/bluetoothctl-prettytable.jpg>
 
